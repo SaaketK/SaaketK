@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey, I'm Saaket
 
-<!--
-**SaaketK/SaaketK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an undergraduate Computer Science student minoring in Computational Mathematics and Computer Engineering. 
+My interests lie in Systems Programming, Scientific AI/ML, and Optimization. 
 
-Here are some ideas to get you started:
+I am currently exploring Physics Informed Neural Networks (PINNs)
+Check out my PINN repo to see somen of the experiments and work I have done with them
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact Me:
+[LinkedIn](https://linkedin.com/in/saaket-kulkarni)
+
+[Personal Site](https://saaketk.github.io)
+
+---
+
