@@ -23,7 +23,7 @@
 
 <p>
   Check out my
-  <a href="https://github.com/saaketk/pinn">PINN repository</a>
+  <a href="https://github.com/stars/SaaketK/lists/pinn-projects">PINN repository</a>
   to see some of my experiments and current work.
 </p>
 
